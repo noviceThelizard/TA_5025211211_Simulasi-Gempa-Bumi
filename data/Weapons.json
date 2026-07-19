@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[],"iconIndex":97,"name":"Golok","note":"","params":[0,0,10,0,0,0,0,0],"price":1,"wtypeId":0},
+{"id":2,"animationId":6,"description":"Berguna untuk menghancurkan berbagai objek. Single use","etypeId":1,"traits":[],"iconIndex":99,"name":"Kapak","note":"","params":[0,0,10,0,0,0,0,0],"price":10,"wtypeId":4},
+{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[],"iconIndex":101,"name":"Tongkat","note":"","params":[0,0,10,0,0,0,0,0],"price":1,"wtypeId":0},
+{"id":4,"animationId":0,"description":"Lampu Kecil. Meningkatkan pencahayaan +1 level ketika\ndi equip.","etypeId":1,"traits":[],"iconIndex":212,"name":"Lampu","note":"","params":[0,0,0,0,10,0,0,0],"price":5,"wtypeId":11}
+]
